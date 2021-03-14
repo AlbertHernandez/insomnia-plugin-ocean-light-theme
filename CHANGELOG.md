@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.0.0...v1.1.0) (2021-03-14)
+
+
+### Features
+
+* extract color to a constant file ([e2740af](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/e2740afd575640219a88e93b9e26ef141c8a7641))
+
 ## 1.0.0 (2021-03-14)
 
 
