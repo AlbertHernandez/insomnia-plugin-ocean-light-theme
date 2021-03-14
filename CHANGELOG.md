@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.1.0...v1.2.0) (2021-03-14)
+
+
+### Features
+
+* add conventional commits ([#3](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/3)) ([9a0bcd8](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/9a0bcd8e36a684bff68bd636fd8d3bf5a90b9fcf))
+
 ## [1.1.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.0.0...v1.1.0) (2021-03-14)
 
 
