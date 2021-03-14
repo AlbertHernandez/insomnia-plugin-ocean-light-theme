@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.2.0...v1.3.0) (2021-03-14)
+
+
+### Features
+
+* format code ([#7](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/7)) ([95790c2](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/95790c29cbac06c3a5c0eb0fe1da188b69aa738b))
+* format code with prettier ([#9](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/9)) ([d3f8a2e](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/d3f8a2e3451d03b5aa4aae152cc28ecae7db4d37))
+* format export code ([#10](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/10)) ([28c0d39](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/28c0d395625e913493821e28278167f5229aa9fc))
+
 ## [1.2.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.1.0...v1.2.0) (2021-03-14)
 
 
