@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.3.0...v1.4.0) (2021-03-14)
+
+
+### Features
+
+* improve readme ([aa8ff0a](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/aa8ff0a3e241fab45bcb4944a40678523f9e9321))
+
 ## [1.3.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.2.0...v1.3.0) (2021-03-14)
 
 
