@@ -7,4 +7,6 @@ const COLOR = {
   LIGHT_GRAY: "#DDDDDE",
 };
 
-module.exports = { COLOR };
+module.exports = {
+  COLOR,
+};
