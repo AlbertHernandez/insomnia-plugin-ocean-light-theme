@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.4.1](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.4.0...v1.4.1) (2021-03-21)
+
+
+### Bug Fixes
+
+* **ol-1:** remove unnecessary values in gitignore ([#12](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/12)) ([ed29dcc](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/ed29dcc082eb898ac76bc779988cbd21e432ec8a))
+
 ## [1.4.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.3.0...v1.4.0) (2021-03-14)
 
 
