@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.5.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.4.0...v1.5.0) (2021-03-21)
+
+
+### Features
+
+* **ol-6:** adds v4 UUID to crypto ([#20](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/20)) ([fa6cf1c](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/fa6cf1c078a29d64b8491bc2e651423555da5e60))
+* **ol-6:** update encode to support unicode ([fa6cf1c](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/fa6cf1c078a29d64b8491bc2e651423555da5e60))
+
+
+### Bug Fixes
+
+* **ol-6:** unicode no longer throws exception ([fa6cf1c](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/fa6cf1c078a29d64b8491bc2e651423555da5e60))
+
 ## [1.4.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.3.0...v1.4.0) (2021-03-14)
 
 
