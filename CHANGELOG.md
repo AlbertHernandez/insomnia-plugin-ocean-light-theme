@@ -1,5 +1,24 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.4.0...v2.0.0) (2021-03-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **utils:** encode method no longer throws.
+
+### Features
+
+* **ol-1:** remove coverage folder ([#14](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/14)) ([1c18f0d](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/1c18f0d2d062312da4e175acf6f530b43e5fafba))
+* **ol-4:** Clean gitignore ([#19](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/19)) ([1bf349a](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/1bf349abce786fe8add5d76531021c0e59b96a7c))
+
+
+### Bug Fixes
+
+* **ol-1:** remove unnecessary values in gitignore ([#12](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/12)) ([ed29dcc](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/ed29dcc082eb898ac76bc779988cbd21e432ec8a))
+* **utils:** remove linter cache ([#17](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/17)) ([9fdf076](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/9fdf07686aa61a3840477a42f8ffd5ad80d57701))
+* **utils:** unicode no longer throws exception BREAKING-CHANGE: encode method no longer throws. ([#16](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/16)) ([ea7eb85](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/ea7eb85d54ddf6097b8ee95921e81657509b3fa3))
+
 ## [1.4.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.3.0...v1.4.0) (2021-03-14)
 
 
