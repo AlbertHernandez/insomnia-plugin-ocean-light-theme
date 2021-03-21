@@ -1,5 +1,12 @@
 # Changelog
 
+### [2.0.5](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.4.0...v2.0.5) (2021-03-21)
+
+
+### Bug Fixes
+
+* **ol-7:** remove nyc_output in the gitignore ([#24](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/24)) ([a5bfeb8](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/a5bfeb87654d70d8dc6baba28b8cdb56d48f388e))
+
 ## [1.4.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.3.0...v1.4.0) (2021-03-14)
 
 
