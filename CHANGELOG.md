@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.4.0...v2.0.0) (2021-03-21)
+
+
+### ⚠ BREAKING CHANGES
+
+* **ol-7:** encode method no longer throws.
+
+### Bug Fixes
+
+* **ol-7:** remove grunt in the gitignore ([11095af](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/11095af7c50fa1168fe33db458c3b1592328d155))
+* remove bower components in the gitignore ([#22](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/issues/22)) ([11095af](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/commit/11095af7c50fa1168fe33db458c3b1592328d155))
+
 ## [1.4.0](https://www.github.com/AlbertHernandez/insomnia-plugin-ocean-light-theme/compare/v1.3.0...v1.4.0) (2021-03-14)
 
 
